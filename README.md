@@ -6,7 +6,7 @@ I dont own the .dll file, i just found it and compiled it to a working project.
 
 # Usage
 
-First, there will appear my phone number(if you have a problem, contact me whatever you want^^), you need to wait on there.
+First, there will appear my phone number(if you have a problem, contact me whenever you want^^), you need to wait on there.
 
 After, this page will show up;
 ![image](https://user-images.githubusercontent.com/82267105/117588736-0a0a6f00-b12e-11eb-9d05-bc5f3d90381e.png)
